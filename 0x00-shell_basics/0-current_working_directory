@@ -1,8 +1,4 @@
 #!/bin/bash
 pwd
 
-0-current_working_directorycase q in
-C-x C-c)
-	
-	;;
-	
+0-current_working_directory
